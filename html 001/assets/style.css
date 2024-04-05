@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+    color: yellow;
+    margin-top: -51pc;
+}
+/* .seat{
+    background-color: black;
+} */
+
+.box-child {
+    display: inline-block;
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+    margin-left: 32px;
+    margin-top: 10px;
+    /* line-height: 49px; */
+    position: relative;
+    border-radius: 38px;
+    /* border-color: #f39f06; */
+}
+.pic {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+.apple{
+    color: gold;
+}
